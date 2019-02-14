@@ -1,7 +1,10 @@
 # Antecedentes
 
 La versión original esta en este proyecto github https://github.com/flexdinesh/dev-landing-page propiedad de Dinesh Pandiyan.
-Este es el post de la explicación original: https://dev.to/flexdinesh/create-your-developer-landing-page-with-github-pages---42jk . Se intenta en este repositorio traducir la explicación y agregar algunas mejoras al código base.
+
+Este es el post de la explicación original: https://dev.to/flexdinesh/create-your-developer-landing-page-with-github-pages---42jk  
+
+Se intenta en este repositorio traducir la explicación y agregar algunas mejoras al código base.
 
 # LandingPage Personal
                                                                                                    
@@ -31,7 +34,9 @@ Primero debes tener un usuario de github
 * `git push`
 
 En ese momento tendrás listo el sitio `https://{username}.github.io`
+
 Esta es mi Página personal - [Juan Urquiza](https://juanitourquiza.github.io/)
+
 Post sobre como se hizo la página aqui: http://hackeruna.com/2019/02/14/como-hacer-tu-pagina-personal-en-github/
 
 ## License
