@@ -1,6 +1,6 @@
 # Antecedentes
 
-La versión original esta en este proyecto github https://github.com/flexdinesh/dev-landing-page propiedad de Dinesh Pandiyan
+La versión original esta en este proyecto github https://github.com/flexdinesh/dev-landing-page propiedad de Dinesh Pandiyan.
 Este es el post de la explicación original: https://dev.to/flexdinesh/create-your-developer-landing-page-with-github-pages---42jk
 Se intenta en este repositorio traducir la explicación y agregar algunas mejoras al código base.
 
