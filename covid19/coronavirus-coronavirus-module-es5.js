@@ -52634,7 +52634,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
               name: "Confirmados",
               data: this.totalConfirmed
             }, {
-              name: "Confirmado",
+              name: "Curados",
               data: this.totalRecovered
             }],
             chart: {

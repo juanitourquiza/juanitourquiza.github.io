@@ -379,7 +379,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       selectors: [["app-footer"]],
       decls: 20,
       vars: 0,
-      consts: [[1, "footer"], [1, "content", "has-text-centered"], ["href", "https://juanitourquiza.github.io/", "target", "new"], ["href", "https://souryvath.github.io/ng-covid-19/", "target", "_blank"], ["href", "https://github.com/mathdroid/covid19", "target", "new"], ["href", "https://github.com/NovelCOVID/API", "target", "new"]],
+      consts: [[1, "footer"], [1, "content", "has-text-centered"], ["href", "https://juanitourquiza.github.io/", "target", "new"], ["href", "https://github.com/souryvath/ng-covid-19", "target", "_blank"], ["href", "https://github.com/mathdroid/covid19", "target", "new"], ["href", "https://github.com/NovelCOVID/API", "target", "new"]],
       template: function FooterComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "footer", 0);
