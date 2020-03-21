@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1584764457325,
+  "timestamp": 1584764799038,
   "index": "/covid19/index.html",
   "assetGroups": [
     {
@@ -53,7 +53,7 @@
     "/covid19/assets/icons/icon-72x72.png": "b185ac3755e3609ebaa2d3f29c8cf16b3d2ea0ab",
     "/covid19/assets/icons/icon-96x96.png": "4eb3bbddecf67205fda0d4b4cb96b0335d7729c7",
     "/covid19/favicon.ico": "b6921f72d93286a6dfbc403c16cb07e5901024c3",
-    "/covid19/index.html": "0238948b2a3fa42ffc7aa5efdf2d27df7ad6cf8a",
+    "/covid19/index.html": "b92c2c0764458ffeefbbe6d1c7ee2346818c3fca",
     "/covid19/main-es2015.ab9fa431237ce56fe6fa.js": "d39d400f03a8064d16ed9ff8d76d0e83da8f5c11",
     "/covid19/main-es5.ab9fa431237ce56fe6fa.js": "858ea183c4841e94c40b3a714a1e873ba936336b",
     "/covid19/manifest.webmanifest": "88fabe4fc2906e01ae2d91fcdc9011db4c9126f0",
